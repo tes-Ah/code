@@ -1,1 +1,1 @@
-# code
+# casino number guessing game
